@@ -1,8 +1,5 @@
 # git-desktop-lab
-<<<<<<< Updated upstream
-This is branch-a
-This lab is to gain practical experience using Git and GitHub with GitHub Desktop for version control, collaboration, and conflict resolution. Students will learn to create and manage repositories, commit changes, work with branches, and resolve merge conflicts using a GUI-based workflow.
-=======
+
 This is branch-b and a
 This lab is to gain practical experience using Git and GitHub with GitHub Desktop for version control, collaboration, and conflict resolution. Students will learn to create and manage repositories, commit changes, work with branches, and resolve merge conflicts using a GUI-based workflow.
 
@@ -71,4 +68,4 @@ Challenge: Initially confusing, but the conflict editor made it easier to unders
 # Summary
 
 This lab walked me through the main steps of using GitHub Desktop, from setting up a repository to resolving a merge conflict. I learned how to commit and push files, work with branches, and merge changes. The most important part was practicing how to handle merge conflicts. At first, it was a bit confusing, but after going through the steps and using the conflict editor, I understood how to fix the problem. Overall, this lab helped me feel more confident using GitHub for version control and made the process of managing and resolving conflicts feel more approachable.
->>>>>>> Stashed changes
+
